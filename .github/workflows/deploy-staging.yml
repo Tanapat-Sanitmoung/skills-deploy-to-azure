@@ -10,7 +10,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: Tanapat-Sanitmoung-azure-ttt
-  AZURE_WEBAPP_NAME: Tanapat-Sanitmoung-ttt-app
+  AZURE_WEBAPP_NAME: tanapat-sanitmoung-ttt-app
   ###############################################
 
 jobs:
